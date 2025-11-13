@@ -1,7 +1,5 @@
 # Portfolio Website
 
-Deployed Here: https://luqman.co.in/
-
 A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS. Features a dynamic blog system, project showcase, and contact functionality.
 
 ## Features
