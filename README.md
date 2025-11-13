@@ -11,8 +11,6 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 - **Project Showcase** - Portfolio gallery with filtering capabilities
 - **Contact Form** - Get in touch functionality
 - **SEO Optimized** - Comprehensive meta tags and sitemap generation
-- **Dark/Light Mode** - Theme switching support
-- **Smooth Animations** - Framer Motion animations throughout
 
 ## Tech Stack
 
